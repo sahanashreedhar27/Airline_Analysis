@@ -1,0 +1,2 @@
+# Airline_Analysis
+Airline Data Analysis Using Spark Technologies Feb 2020 – May 2020  Project descriptionAnalysed 7GB size data that contained information about flight operational airlines, delays information, location details (origins and destinations), and cancellation (reasons as cancellation code); together with certain technical details such as the time that the plane was stationary on ground.  Used hybrid python supported version PySpark with Amazon Web Services (AWS) Elastic Map Reduce (EMR) cluster.
